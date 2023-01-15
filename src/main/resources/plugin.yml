@@ -1,0 +1,6 @@
+name: LobbyBundle
+version: '${project.version}'
+main: br.com.rabbithole.lobbybundle.LobbyBundle
+api-version: 1.19
+authors: [ FelipeSz_19 ]
+description: Lobby Bundle for Rabbit Hole RP
